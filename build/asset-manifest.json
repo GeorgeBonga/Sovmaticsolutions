@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffb1a79b.css",
+    "main.js": "/static/js/main.d6d4927b.js",
+    "static/media/coco.png": "/static/media/coco.205ac3bf777913e8a69d.png",
+    "static/media/calcu.png": "/static/media/calcu.ad145a646f1547d50413.png",
+    "static/media/herro.svg": "/static/media/herro.58eabec6db728e252088fc86935af19b.svg",
+    "static/media/consultation.svg": "/static/media/consultation.ede9466b3634733f30c8d1a1b7bbe939.svg",
+    "static/media/nlogoo.png": "/static/media/nlogoo.04e1d69eab9d1148cdb9.png",
+    "static/media/hosting.svg": "/static/media/hosting.b755d3eebb287dde8fcd287cb1d5653e.svg",
+    "static/media/app.svg": "/static/media/app.3d550d02d3409ad587451a91e97e78fb.svg",
+    "static/media/web.svg": "/static/media/web.bceccecdef8e71bd5a8d73effe14fdba.svg",
+    "index.html": "/index.html",
+    "main.ffb1a79b.css.map": "/static/css/main.ffb1a79b.css.map",
+    "main.d6d4927b.js.map": "/static/js/main.d6d4927b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffb1a79b.css",
+    "static/js/main.d6d4927b.js"
+  ]
+}
